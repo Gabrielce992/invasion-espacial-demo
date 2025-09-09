@@ -13,9 +13,12 @@ Atrapado en su laboratorio, el jugador deberá **enfrentar oleadas de enemigos**
 ---
 
 ## 🎥 Demo (capturas / gif)
-
-![Gameplay](assets/VIDEO.gif)
-![Captura](assets/E12.jpeg)
+![Captura](Captusra.JPG)
+![Captura](Capdstura.JPG)
+![Captura](a.jpeg)
+![Captura](Capsaatura.JPG)
+![Captura](Capdaatura.JPG)
+![Captura](Captdsura.JPG)
 
 ---
 
