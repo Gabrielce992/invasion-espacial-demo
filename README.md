@@ -88,7 +88,7 @@ Incluye HUD, armas, progresión de niveles y enemigos con estética absurda.
 ✅ **Versión oficial y funcional:**
 👉 Debes descargar directamente desde la **release oficial** aquí:
 
-📥 **[Descargar Space Invaders 3D — Release oficial (.exe)](https://github.com/Gabrielce992/invasion-espacial-demo/releases/tag/v1.0)**
+📥 **[Descargar Space Invaders 3D — Release oficial (.exe)](https://github.com/Gabrielce992/invasion-espacial-demo/releases/tag/v2.0)**
 
 ---
 
