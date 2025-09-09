@@ -1,5 +1,5 @@
 
-# 🔫 Space Invaders 3D — Unity + Partículas Personalizadas
+# 🔫 Space Invaders 3D — Unity + Partículas+Assets Personalizadas
 
 **Resumen:**
 En el año **2049**, el científico **Dr. Elías Vértice** abre por error un **portal al “subconsciente de Internet”**.
