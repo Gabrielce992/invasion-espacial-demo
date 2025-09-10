@@ -80,23 +80,25 @@ Atrapado en su laboratorio, el jugador deberá **enfrentar oleadas de enemigos**
 
 ## 📦 Estado del Proyecto
 
-✅**Prototipo jugable en Unity (FPS, oleadas y enemigos virales)**
-Incluye HUD, armas, progresión de niveles y enemigos con estética absurda.
-
-❌ **Ejecutable en el repo:** La versión incluida (`SpaceInvaders.exe`) está **rota** y no funciona correctamente.
-
 ✅ **Versión oficial y funcional:**
 👉 Debes descargar directamente desde la **release oficial** aquí:
 
 📥 **[Descargar Space Invaders 3D — Release oficial (.exe)](https://github.com/Gabrielce992/invasion-espacial-demo/releases/tag/v2.0)**
 
+
+✅**Prototipo jugable en Unity (FPS, oleadas y enemigos virales)**
+Incluye HUD, armas, progresión de niveles y enemigos con estética absurda.
+
+**Ejecutable en el repo:** La versión incluida (`SpaceInvaders.exe`) está **rota** y no funciona correctamente.
+
+
 ---
 
 ## 📂 Estructura del repo
 
-* ❌ `SpaceInvaders.exe` → Ejecutable roto, no funcional.
-* ❌ `UnityPlayer.dll` → Asociado a la versión rota.
-* ❌ `UnityCrashHandler64.exe` → Asociado a la versión rota.
+* `SpaceInvaders.exe` → Ejecutable roto, no funcional.
+* `UnityPlayer.dll` → Asociado a la versión rota.
+* `UnityCrashHandler64.exe` → Asociado a la versión rota.
 * `assets/` → Carpeta auxiliar (incluye `.gitkeep`).
 * `README.md` → Documentación del proyecto (este archivo).
 
