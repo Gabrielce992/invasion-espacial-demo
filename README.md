@@ -1,5 +1,5 @@
 
-👾 Memeverse Collapse — FPS de Oleadas con IA — Unity + Partículas+Assets Personalizadas
+## 👾 Memeverse Collapse — FPS de Oleadas con IA — Unity + Partículas+Assets Personalizadas
 
 **Resumen:**
 En el año **2049**, el científico **Dr. Elías Vértice** abre por error un **portal al “subconsciente de Internet”**.
@@ -110,7 +110,10 @@ Incluye HUD, armas, progresión de niveles y enemigos con estética absurda.
 El proyecto completo (código en C# y assets de Unity) se encuentra en un **repositorio privado**.
 **Acceso al código:** disponible bajo solicitud (se puede otorgar acceso al repo privado).
 
-📧 Contacto: **[tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)**
+## 📬 Contacto
+📧 gabrielce992@gmail.com  
+
+
 
 ---
 
